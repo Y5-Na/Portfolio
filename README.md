@@ -1,5 +1,5 @@
 ## Portfolio
-
+https://img.shields.io/badge/any_text-you_like-blue
 안녕하세요!
 제가 진행한 프로젝트들을 모아두는 포트폴리오 공간입니다.
 더 많은 내용은 👉 Notion 상세 설명 보기
@@ -64,4 +64,5 @@ Email : your@email.com
 GitHub : https://github.com/사용자
 
 Notion : 위 링크 참고
+
 
