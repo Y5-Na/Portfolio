@@ -1,5 +1,11 @@
 ## Portfolio
-https://img.shields.io/badge/any_text-you_like-blue
+<p>
+  <img src="https://img.shields.io/badge/Next.js-v14.0.1-black?logo=next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/FramerMotion-0055FF?logo=framer&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" />
+</p>
 안녕하세요!
 제가 진행한 프로젝트들을 모아두는 포트폴리오 공간입니다.
 더 많은 내용은 👉 Notion 상세 설명 보기
@@ -64,5 +70,6 @@ Email : your@email.com
 GitHub : https://github.com/사용자
 
 Notion : 위 링크 참고
+
 
 
